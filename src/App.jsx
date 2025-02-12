@@ -10,6 +10,7 @@ function App() {
 
   return (
     <>
+      <h1 className='text-white text-center mt-12 font-bold text-3xl cursor-pointer'>WorlData - حمزة</h1>
       <Input></Input>
       <div className='absolute'>
         <Card></Card>
