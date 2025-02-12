@@ -11,7 +11,10 @@ function App() {
   return (
     <>
       <Input></Input>
-      <Card></Card>
+      <div className='absolute'>
+        <Card></Card>
+      </div>
+      
     </>
   )
 }

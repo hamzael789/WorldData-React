@@ -1,8 +1,9 @@
-@import "tailwindcss"; 
-/*le point virgule est obligatoire */
+@import "tailwindcss";
 
-body{
-    background-image: url(../public/img/back.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+
+body {
+    background-color: black;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 400;
+    font-style: normal;
 }
